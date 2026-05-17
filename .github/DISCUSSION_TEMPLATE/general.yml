@@ -1,0 +1,50 @@
+title: "[General] "
+labels: ["community"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this space for open Calabash conversations that are not bug reports, focused feature proposals, or support questions.
+        Any supported Calabash language is welcome. Please mark story spoilers clearly.
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: What would you like to talk about?
+      placeholder: "Reader workflow, spoiler-safe notes, mystery templates, public demo feedback..."
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Reading workflow
+        - Mystery and detective fiction use cases
+        - Templates and starter boards
+        - Local-first data and backups
+        - Documentation or localization
+        - Project direction
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Add enough context for other readers and maintainers to join the conversation.
+      placeholder: "I tried Calabash while reading..."
+    validations:
+      required: true
+  - type: textarea
+    id: invitation
+    attributes:
+      label: What kind of response would help?
+      description: Tell people whether you want opinions, examples, maintainer guidance, or just a place to compare notes.
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety
+      options:
+        - label: I removed or clearly marked spoilers and private reading notes.
+          required: true

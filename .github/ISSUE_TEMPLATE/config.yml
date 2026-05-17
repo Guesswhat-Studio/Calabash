@@ -1,5 +1,14 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: Live demo
     url: https://guesswhat-studio.github.io/Calabash/
     about: Try the current browser demo.
+  - name: Questions and troubleshooting
+    url: https://github.com/Guesswhat-Studio/Calabash/discussions/new?category=q-a
+    about: Ask how to use Calabash, debug your setup, or get help before filing an issue.
+  - name: Early ideas and workflow notes
+    url: https://github.com/Guesswhat-Studio/Calabash/discussions/new?category=ideas
+    about: Start a discussion for exploratory product ideas before they become focused issues.
+  - name: Share a board, template, or use case
+    url: https://github.com/Guesswhat-Studio/Calabash/discussions/new?category=show-and-tell
+    about: Show what you made, share a template, or describe a reading workflow.

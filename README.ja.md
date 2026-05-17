@@ -76,6 +76,18 @@ Calabash は、自分で推理を進めるのが好きな読者向けです。
 
 Calabash は読書記録アプリ、電子書籍リーダー、執筆ツール、AI 要約ツール、SNS ではありません。
 
+## コミュニティ
+
+- 再現できるバグ、beta フィードバック、具体的な提案、docs 修正、テンプレート提供:
+  [Issue chooser](https://github.com/Guesswhat-Studio/Calabash/issues/new/choose)
+  を使ってください。
+- 質問、セットアップ相談、初期アイデア、show-and-tell:
+  [GitHub Discussions](https://github.com/Guesswhat-Studio/Calabash/discussions)
+  を使ってください。
+- 開発環境と PR の期待値: [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。
+- セキュリティ報告: 公開 Issue ではなく [SECURITY.md](SECURITY.md)
+  に従ってください。
+
 ## 開発
 
 アプリは `app/` にあり、Vite + React で動きます。

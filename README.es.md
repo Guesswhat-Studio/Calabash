@@ -76,6 +76,19 @@ Calabash es para lectores que disfrutan hacer el trabajo detectivesco:
 
 Calabash no es un tracker de libros, lector de ebooks, herramienta de escritura, resumidor de IA ni plataforma social.
 
+## Comunidad
+
+- Bugs reproducibles, feedback beta, propuestas enfocadas, arreglos de docs y
+  contribuciones de plantillas: usa el
+  [selector de issues](https://github.com/Guesswhat-Studio/Calabash/issues/new/choose).
+- Preguntas, ayuda de configuracion, ideas tempranas y publicaciones
+  show-and-tell: usa
+  [GitHub Discussions](https://github.com/Guesswhat-Studio/Calabash/discussions).
+- Configuracion para contribuir y expectativas de PR: consulta
+  [CONTRIBUTING.md](CONTRIBUTING.md).
+- Reportes de seguridad: sigue [SECURITY.md](SECURITY.md) en lugar de abrir un
+  issue publico.
+
 ## Desarrollo
 
 La app vive en `app/` y usa Vite + React.

@@ -1,18 +1,19 @@
 name: Bug report
 description: Report something that is broken or confusing in Calabash.
 title: "[Bug]: "
-labels: ["bug"]
+labels: ["bug", "needs triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping test Calabash. Please avoid including private reading notes or spoilers unless they are needed to reproduce the issue.
+        Thanks for helping test Calabash. Please avoid including private reading notes or unmarked spoilers unless they are needed to reproduce the issue.
+        For questions or setup help, use Discussions instead: https://github.com/Guesswhat-Studio/Calabash/discussions/new?category=q-a
   - type: input
     id: version
     attributes:
       label: Calabash version
       description: You can find this in Settings.
-      placeholder: "0.1.1"
+      placeholder: "0.5.2"
     validations:
       required: true
   - type: dropdown
@@ -21,15 +22,47 @@ body:
       label: Where did this happen?
       options:
         - GitHub Pages demo
+        - Desktop app - Windows
+        - Desktop app - macOS
+        - Desktop app - Linux
+        - Self-hosted web build
         - Local development build
         - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - Board canvas, cards, notes, or groups
+        - Relationships or chapter slider
+        - Import, export, backup, or templates
+        - Tutorial or demo data
+        - Settings, language, or onboarding
+        - Desktop shell or file dialogs
+        - Build, release, or install
+        - Not sure
     validations:
       required: true
   - type: input
     id: browser
     attributes:
       label: Browser and operating system
-      placeholder: "Chrome on Windows 11"
+      description: For desktop app issues, include the OS version and installer/archive type instead.
+      placeholder: "Chrome on Windows 11, or Calabash desktop on Windows 11"
+    validations:
+      required: true
+  - type: dropdown
+    id: reproducibility
+    attributes:
+      label: Reproducibility
+      options:
+        - Every time
+        - Often
+        - Sometimes
+        - Only once
+        - Not sure
     validations:
       required: true
   - type: textarea
@@ -43,6 +76,12 @@ body:
         3. Clicked ...
     validations:
       required: true
+  - type: textarea
+    id: minimal-data
+    attributes:
+      label: Minimal sample data
+      description: If the bug depends on a book/library/template file, attach a redacted minimal export or describe the smallest case that reproduces it.
+      placeholder: "A two-character test book with one suspected relationship is enough to reproduce it."
   - type: textarea
     id: expected
     attributes:
@@ -58,8 +97,21 @@ body:
     validations:
       required: true
   - type: textarea
+    id: console
+    attributes:
+      label: Console errors or logs
+      description: Paste relevant browser console, terminal, or desktop log output if available. Please redact paths, names, and story text you do not want public.
+      render: shell
+  - type: textarea
     id: screenshots
     attributes:
       label: Screenshots or notes
       description: Drag screenshots here if they help. Please hide spoilers or private notes first.
-
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Safety checks
+      options:
+        - label: I removed or clearly marked story spoilers and private reading notes.
+          required: true
+        - label: I checked whether the issue also happens in the current live demo or a fresh local build, if that was practical.

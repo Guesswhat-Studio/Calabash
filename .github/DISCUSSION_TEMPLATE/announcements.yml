@@ -1,0 +1,44 @@
+title: "[Announcement] "
+labels: ["announcement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Maintainer-facing form for release notes, project updates, and public status announcements.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What changed, shipped, or needs the community's attention?
+    validations:
+      required: true
+  - type: dropdown
+    id: announcement-type
+    attributes:
+      label: Type
+      options:
+        - Release
+        - Beta note
+        - Maintenance
+        - Roadmap or planning
+        - Community
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: Add release, changelog, demo, PR, or documentation links.
+  - type: textarea
+    id: call-to-action
+    attributes:
+      label: What should readers do?
+      description: Tell people whether to test, report bugs, discuss an idea, upgrade, or just be aware.
+  - type: checkboxes
+    id: release-checks
+    attributes:
+      label: Checks
+      options:
+        - label: User-facing READMEs are in sync when this announcement describes a public release or update.
+        - label: Spoilers, private notes, and unreleased security details are not included.

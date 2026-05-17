@@ -1,12 +1,13 @@
 name: Feature proposal
-description: Suggest a focused improvement for Calabash.
+description: Suggest a focused, actionable improvement for Calabash.
 title: "[Feature]: "
-labels: ["enhancement"]
+labels: ["enhancement", "needs triage"]
 body:
   - type: markdown
     attributes:
       value: |
         Calabash is intentionally local-first and manual. Please do not propose AI extraction, cloud sync, login systems, or server-side reader data for the current beta.
+        If the idea is still exploratory, start in Discussions first: https://github.com/Guesswhat-Studio/Calabash/discussions/new?category=ideas
   - type: textarea
     id: problem
     attributes:
@@ -23,6 +24,22 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: area
+    attributes:
+      label: Product area
+      options:
+        - Board canvas and visual organization
+        - Character cards and aliases
+        - Relationships and certainty
+        - Chapter safety and spoiler controls
+        - Import, export, backup, or templates
+        - Onboarding, tutorials, or sample data
+        - Desktop app behavior
+        - Documentation or localization
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
     id: scope
     attributes:
       label: Scope
@@ -34,8 +51,25 @@ body:
     validations:
       required: true
   - type: textarea
+    id: success
+    attributes:
+      label: What would feel better after this ships?
+      description: Describe the concrete reader workflow that becomes faster, clearer, or safer.
+      placeholder: "I could return to a 30-chapter case after a week and immediately see..."
+    validations:
+      required: true
+  - type: textarea
     id: alternatives
     attributes:
       label: Alternatives
       description: Have you tried another workaround inside Calabash?
-
+  - type: checkboxes
+    id: fit
+    attributes:
+      label: Product fit
+      options:
+        - label: This keeps reader data local-first and does not require accounts, cloud sync, or server-side storage.
+          required: true
+        - label: This keeps deduction manual rather than asking Calabash to solve, summarize, or rank suspects.
+          required: true
+        - label: I am willing to answer follow-up questions or test a build if maintainers need feedback.

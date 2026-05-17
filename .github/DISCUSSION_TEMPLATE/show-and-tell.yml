@@ -1,0 +1,57 @@
+title: "[Show and tell] "
+labels: ["community"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share a Calabash board, template, reading workflow, screenshot, tutorial idea, or mystery-notes setup.
+        Please remove private notes and mark spoilers before posting.
+  - type: input
+    id: title
+    attributes:
+      label: What are you sharing?
+      placeholder: "A puzzle contest template, a spoiler-safe board layout, a demo book workflow..."
+    validations:
+      required: true
+  - type: dropdown
+    id: share-type
+    attributes:
+      label: Type
+      options:
+        - Board or screenshot
+        - Reusable template
+        - Reading workflow
+        - Tutorial or sample data idea
+        - Translation or docs example
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain what you made, who it helps, and how others can try it.
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: Files, screenshots, or links
+      description: Attach images or redacted `.calabash-template.json` files if you want others to inspect or reuse them.
+  - type: dropdown
+    id: permission
+    attributes:
+      label: May maintainers reference this publicly?
+      options:
+        - Yes, with attribution in this discussion
+        - Ask me first
+        - No
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety
+      options:
+        - label: I removed or clearly marked spoilers, copyrighted story text, and private reading notes.
+          required: true

@@ -1,0 +1,54 @@
+title: "[Idea] "
+labels: ["enhancement", "community"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this category for early product ideas, workflow sketches, and "would this fit Calabash?" conversations.
+        Focused, ready-to-build requests can move to Issues after the shape is clear.
+  - type: textarea
+    id: reader-problem
+    attributes:
+      label: Reader problem
+      description: What reading, note-taking, or case-board problem led to this idea?
+      placeholder: "When I return to a mystery after a week, I lose track of..."
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Idea
+      description: Describe the change, workflow, or experiment you want to discuss.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Board layout and navigation
+        - Characters, aliases, and roles
+        - Relationships and certainty
+        - Chapter safety and spoiler controls
+        - Notes, groups, and illustrations
+        - Import, export, backup, or templates
+        - Desktop app
+        - Documentation or localization
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Current workaround
+      description: How do you handle this today, inside or outside Calabash?
+  - type: checkboxes
+    id: fit
+    attributes:
+      label: Fit check
+      options:
+        - label: The idea keeps reader data local-first and private.
+          required: true
+        - label: The idea keeps deduction manual rather than asking Calabash to solve, summarize, or rank suspects.
+          required: true
+        - label: I am open to turning this into a focused issue after discussion.

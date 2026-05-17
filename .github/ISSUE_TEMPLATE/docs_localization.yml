@@ -1,0 +1,64 @@
+name: Docs or localization
+description: Report confusing docs, mistranslations, missing language coverage, or README drift.
+title: "[Docs/i18n]: "
+labels: ["documentation", "i18n", "needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping make Calabash easier to understand across languages.
+        For broad language or wording conversations, Discussions are also welcome: https://github.com/Guesswhat-Studio/Calabash/discussions
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - README or repository docs
+        - App UI copy
+        - Tutorial or sample content
+        - Release notes or changelog
+        - Screenshots, preview cards, or metadata
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options:
+        - English
+        - Chinese Simplified
+        - Japanese
+        - Spanish
+        - Portuguese
+        - Multiple languages
+        - Not language-specific
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current wording or location
+      description: Link the file, screen, heading, or string key. Paste a short excerpt if helpful.
+      placeholder: "README.zh-CN.md, Quick Start step 4..."
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is confusing or wrong?
+      description: Explain the mismatch, mistranslation, stale version, or missing context.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested wording or fix
+      description: If you know the better wording, paste it here. Short suggestions are perfect.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I checked whether the same issue appears in the other README languages or app UI languages.
+        - label: I can review a proposed wording change in this language.

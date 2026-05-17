@@ -76,6 +76,13 @@ Calabash 适合喜欢自己做推理功课的读者：
 
 Calabash 不是读书记录工具、电子书阅读器、写作软件、AI 总结器或社交平台。
 
+## 社区
+
+- 可复现 bug、beta 反馈、明确功能提案、文档修正和模板贡献：使用 [issue 选择器](https://github.com/Guesswhat-Studio/Calabash/issues/new/choose)。
+- 使用问题、环境配置帮助、早期想法和展示分享：使用 [GitHub Discussions](https://github.com/Guesswhat-Studio/Calabash/discussions)。
+- 贡献环境和 PR 要求：见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+- 安全问题：请按 [SECURITY.md](SECURITY.md) 私下报告，不要开公开 issue。
+
 ## 开发
 
 应用位于 `app/`，使用 Vite + React。

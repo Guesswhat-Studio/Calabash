@@ -1,0 +1,52 @@
+title: "[Q&A] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask usage, setup, import/export, or troubleshooting questions here.
+        If you have a reproducible bug, please use the bug report issue form instead.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What are you trying to do, and what is blocking you?
+      placeholder: "How do I move a book from the web demo to the desktop app?"
+    validations:
+      required: true
+  - type: dropdown
+    id: context
+    attributes:
+      label: Context
+      options:
+        - Using the GitHub Pages demo
+        - Using the desktop app
+        - Running locally from source
+        - Importing, exporting, or backing up data
+        - Creating or using templates
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Calabash version, browser, or OS
+      description: Add the version and environment if the question depends on your setup.
+      placeholder: "0.5.2, Chrome on Windows 11"
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Links, screenshots, or short notes are enough.
+  - type: textarea
+    id: details
+    attributes:
+      label: Extra details
+      description: Add screenshots or a redacted sample file if it helps. Please avoid private notes and unmarked spoilers.
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety
+      options:
+        - label: I removed or clearly marked spoilers and private reading notes.
+          required: true

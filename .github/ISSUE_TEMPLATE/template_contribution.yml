@@ -1,13 +1,14 @@
 name: Template contribution
 description: Propose a reusable Calabash template for puzzles, contests, books, or cases.
 title: "[Template]: "
-labels: ["template"]
+labels: ["template", "needs triage"]
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for helping Calabash grow a useful template library.
         Please attach a `.calabash-template.json` exported from Calabash, or open a PR adding it under `app/src/templates/`.
+        If you only want to show a template idea for discussion, use Show and tell instead: https://github.com/Guesswhat-Studio/Calabash/discussions/new?category=show-and-tell
   - type: input
     id: use_case
     attributes:
@@ -26,7 +27,19 @@ body:
         - Japanese
         - Spanish
         - Portuguese
+        - Multilingual
         - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: maturity
+    attributes:
+      label: Template maturity
+      options:
+        - Ready to bundle
+        - Needs review
+        - Concept only
+        - Not sure
     validations:
       required: true
   - type: textarea
@@ -45,6 +58,12 @@ body:
     validations:
       required: true
   - type: textarea
+    id: testing
+    attributes:
+      label: Testing notes
+      description: Tell us whether you imported it into a fresh Calabash library and whether chapter safety, groups, notes, and relationships behaved as intended.
+      placeholder: "Imported into a fresh library, created one book from it, moved the chapter slider, and exported again."
+  - type: textarea
     id: copyright
     attributes:
       label: Copyright and spoilers
@@ -52,3 +71,12 @@ body:
       placeholder: "This is an original blank template and contains no story spoilers."
     validations:
       required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Contribution checks
+      options:
+        - label: The template does not include copyrighted story text, private reading notes, or unmarked spoilers.
+          required: true
+        - label: The template is useful without needing Calabash to infer or solve anything automatically.
+          required: true

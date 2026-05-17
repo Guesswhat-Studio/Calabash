@@ -1,17 +1,44 @@
 name: Beta feedback
 description: Share reading-session feedback from using Calabash.
 title: "[Beta feedback]: "
-labels: ["beta feedback"]
+labels: ["beta feedback", "needs triage"]
 body:
   - type: markdown
     attributes:
       value: |
         This form is for reader experience feedback. Please avoid major plot spoilers, or mark them clearly.
+        Questions and longer conversations are welcome in Discussions: https://github.com/Guesswhat-Studio/Calabash/discussions
   - type: input
     id: version
     attributes:
       label: Calabash version
-      placeholder: "0.1.1"
+      placeholder: "0.5.2"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where did you try Calabash?
+      options:
+        - GitHub Pages demo
+        - Desktop app - Windows
+        - Desktop app - macOS
+        - Desktop app - Linux
+        - Local development build
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: UI language used
+      options:
+        - English
+        - Chinese Simplified
+        - Japanese
+        - Spanish
+        - Portuguese
+        - Mixed or changed during the session
     validations:
       required: true
   - type: dropdown
@@ -31,6 +58,16 @@ body:
       label: Reading context
       description: What kind of book or session did you try it with?
       placeholder: "A 20-chapter detective novel, about one hour of use..."
+  - type: dropdown
+    id: session-length
+    attributes:
+      label: Session length
+      options:
+        - Under 10 minutes
+        - 10-30 minutes
+        - 30-60 minutes
+        - More than 1 hour
+        - Multiple sessions
   - type: textarea
     id: worked
     attributes:
@@ -50,4 +87,15 @@ body:
     attributes:
       label: Did the local storage and Export/Import model feel clear?
       description: Tell us whether the no-account, browser-local data story made sense.
-
+  - type: textarea
+    id: next
+    attributes:
+      label: What would make you try it again?
+      description: Name the smallest change, doc, template, or polish pass that would make another reading session more likely.
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety checks
+      options:
+        - label: I removed or clearly marked major story spoilers and private reading notes.
+          required: true
