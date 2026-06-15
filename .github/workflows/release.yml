@@ -127,7 +127,7 @@ jobs:
           fi
 
       - name: Upload workflow artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: calabash-web-${{ github.ref_name }}
           path: release-assets/*
@@ -265,7 +265,7 @@ jobs:
         run: gh release upload "${GITHUB_REF_NAME}" release-assets/desktop/* --clobber
 
       - name: Upload desktop workflow artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: calabash-desktop-${{ github.ref_name }}-${{ matrix.label }}
           path: release-assets/desktop/*
