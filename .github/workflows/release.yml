@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -53,7 +53,7 @@ jobs:
     needs: validate
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -127,7 +127,7 @@ jobs:
           fi
 
       - name: Upload workflow artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: calabash-web-${{ github.ref_name }}
           path: release-assets/*
@@ -139,7 +139,7 @@ jobs:
       has_tauri: ${{ steps.detect.outputs.has_tauri }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Detect Tauri project
         id: detect
@@ -179,7 +179,7 @@ jobs:
             upload_plain_binary: true
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Install Linux dependencies
         if: matrix.platform == 'ubuntu-22.04'
@@ -220,7 +220,7 @@ jobs:
 
       - name: Build and upload Tauri binaries
         id: tauri
-        uses: tauri-apps/tauri-action@v0.6.2
+        uses: tauri-apps/tauri-action@v1.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -265,7 +265,7 @@ jobs:
         run: gh release upload "${GITHUB_REF_NAME}" release-assets/desktop/* --clobber
 
       - name: Upload desktop workflow artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: calabash-desktop-${{ github.ref_name }}-${{ matrix.label }}
           path: release-assets/desktop/*
@@ -279,7 +279,7 @@ jobs:
     if: needs.publish-web.result == 'success' && needs.publish_tauri.result == 'success'
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Setup Node
         uses: actions/setup-node@v6
