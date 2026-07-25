@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T04:23:48.289Z",
+  "generatedAt": "2026-07-25T04:22:09.256Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 48,
     "desktopDownloads": 40,
     "latestReleaseDownloads": 7,
-    "githubRepoViews14d": 15,
-    "githubRepoVisitors14d": 11,
-    "githubClones14d": 211,
-    "githubUniqueCloners14d": 75
+    "githubRepoViews14d": 12,
+    "githubRepoVisitors14d": 9,
+    "githubClones14d": 218,
+    "githubUniqueCloners14d": 79
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 1,
     "openIssues": 10,
     "views14d": {
-      "count": 15,
-      "uniques": 11,
+      "count": 12,
+      "uniques": 9,
       "daily": [
-        {
-          "timestamp": "2026-07-09T00:00:00Z",
-          "count": 3,
-          "uniques": 2
-        },
         {
           "timestamp": "2026-07-10T00:00:00Z",
           "count": 1,
@@ -108,18 +103,18 @@
           "timestamp": "2026-07-22T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ]
     },
     "clones14d": {
-      "count": 211,
-      "uniques": 75,
+      "count": 218,
+      "uniques": 79,
       "daily": [
-        {
-          "timestamp": "2026-07-09T00:00:00Z",
-          "count": 10,
-          "uniques": 7
-        },
         {
           "timestamp": "2026-07-10T00:00:00Z",
           "count": 5,
@@ -184,6 +179,11 @@
           "timestamp": "2026-07-22T00:00:00Z",
           "count": 6,
           "uniques": 5
+        },
+        {
+          "timestamp": "2026-07-23T00:00:00Z",
+          "count": 17,
+          "uniques": 11
         }
       ]
     },
@@ -191,11 +191,6 @@
       {
         "referrer": "github.com",
         "count": 3,
-        "uniques": 1
-      },
-      {
-        "referrer": "tuilixy.net",
-        "count": 2,
         "uniques": 1
       }
     ],
@@ -219,12 +214,6 @@
         "uniques": 1
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/blob/main/docs/CODE_SIGNING.md",
-        "title": "/blob/main/docs/CODE_SIGNING.md",
-        "count": 1,
-        "uniques": 1
-      },
-      {
         "path": "/Guesswhat-Studio/Calabash/discussions",
         "title": "/discussions",
         "count": 1,
@@ -233,18 +222,6 @@
       {
         "path": "/Guesswhat-Studio/Calabash/pulls",
         "title": "/pulls",
-        "count": 1,
-        "uniques": 1
-      },
-      {
-        "path": "/Guesswhat-Studio/Calabash/releases",
-        "title": "/releases",
-        "count": 1,
-        "uniques": 1
-      },
-      {
-        "path": "/Guesswhat-Studio/Calabash/releases/tag/v0.5.7",
-        "title": "/releases/tag/v0.5.7",
         "count": 1,
         "uniques": 1
       }
