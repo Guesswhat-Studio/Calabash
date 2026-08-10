@@ -17,7 +17,7 @@
     "test:release-local": "npm run test:web:pipeline && npm run test:update-live && npm run desktop:build:debug && npm run test:desktop:crud"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "2.11.1",
-    "webdriverio": "^9.27.1"
+    "@tauri-apps/cli": "2.11.4",
+    "webdriverio": "^9.30.1"
   }
 }
