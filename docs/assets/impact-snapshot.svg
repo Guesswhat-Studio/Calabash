@@ -24,7 +24,7 @@
   <rect x="1" y="1" width="758" height="130" rx="10" fill="url(#paper)" stroke="#c9ad73" filter="url(#soft-shadow)"/>
   <rect x="1" y="1" width="758" height="130" rx="10" fill="url(#dot-grid)" opacity="0.42"/>
   <path d="M1 29H759" stroke="#8f2f1f" stroke-width="5"/>
-  <text class="eyebrow" x="28" y="22" fill="#74603d">PUBLIC IMPACT · v0.5.7 · 2026-08-19</text>
+  <text class="eyebrow" x="28" y="22" fill="#74603d">PUBLIC IMPACT · v0.5.7 · 2026-08-20</text>
   
     <g transform="translate(28, 64)">
       <text class="metric-value" x="0" y="0" fill="#8f2f1f">50</text>
