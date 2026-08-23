@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T03:29:20.654Z",
+  "generatedAt": "2026-08-23T03:34:36.554Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 50,
     "desktopDownloads": 41,
     "latestReleaseDownloads": 9,
-    "githubRepoViews14d": 16,
-    "githubRepoVisitors14d": 9,
-    "githubClones14d": 132,
-    "githubUniqueCloners14d": 61
+    "githubRepoViews14d": 19,
+    "githubRepoVisitors14d": 12,
+    "githubClones14d": 129,
+    "githubUniqueCloners14d": 59
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 1,
     "openIssues": 12,
     "views14d": {
-      "count": 16,
-      "uniques": 9,
+      "count": 19,
+      "uniques": 12,
       "daily": [
-        {
-          "timestamp": "2026-08-07T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
         {
           "timestamp": "2026-08-08T00:00:00Z",
           "count": 0,
@@ -108,18 +103,18 @@
           "timestamp": "2026-08-20T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 3,
+          "uniques": 3
         }
       ]
     },
     "clones14d": {
-      "count": 132,
-      "uniques": 61,
+      "count": 129,
+      "uniques": 59,
       "daily": [
-        {
-          "timestamp": "2026-08-07T00:00:00Z",
-          "count": 9,
-          "uniques": 8
-        },
         {
           "timestamp": "2026-08-08T00:00:00Z",
           "count": 4,
@@ -184,6 +179,11 @@
           "timestamp": "2026-08-20T00:00:00Z",
           "count": 24,
           "uniques": 14
+        },
+        {
+          "timestamp": "2026-08-21T00:00:00Z",
+          "count": 6,
+          "uniques": 6
         }
       ]
     },
@@ -195,8 +195,8 @@
       },
       {
         "referrer": "chatgpt.com",
-        "count": 3,
-        "uniques": 1
+        "count": 4,
+        "uniques": 2
       },
       {
         "referrer": "tuilixy.net",
@@ -208,8 +208,8 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 9,
-        "uniques": 9
+        "count": 12,
+        "uniques": 12
       },
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/README.zh-CN.md",
