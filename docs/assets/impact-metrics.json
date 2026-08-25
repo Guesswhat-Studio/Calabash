@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T03:35:54.307Z",
+  "generatedAt": "2026-08-25T03:32:45.533Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 50,
     "desktopDownloads": 41,
     "latestReleaseDownloads": 9,
-    "githubRepoViews14d": 20,
-    "githubRepoVisitors14d": 12,
-    "githubClones14d": 134,
-    "githubUniqueCloners14d": 61
+    "githubRepoViews14d": 18,
+    "githubRepoVisitors14d": 11,
+    "githubClones14d": 120,
+    "githubUniqueCloners14d": 53
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 1,
     "openIssues": 12,
     "views14d": {
-      "count": 20,
-      "uniques": 12,
+      "count": 18,
+      "uniques": 11,
       "daily": [
-        {
-          "timestamp": "2026-08-09T00:00:00Z",
-          "count": 2,
-          "uniques": 2
-        },
         {
           "timestamp": "2026-08-10T00:00:00Z",
           "count": 1,
@@ -108,18 +103,18 @@
           "timestamp": "2026-08-22T00:00:00Z",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ]
     },
     "clones14d": {
-      "count": 134,
-      "uniques": 61,
+      "count": 120,
+      "uniques": 53,
       "daily": [
-        {
-          "timestamp": "2026-08-09T00:00:00Z",
-          "count": 18,
-          "uniques": 13
-        },
         {
           "timestamp": "2026-08-10T00:00:00Z",
           "count": 30,
@@ -184,14 +179,19 @@
           "timestamp": "2026-08-22T00:00:00Z",
           "count": 9,
           "uniques": 7
+        },
+        {
+          "timestamp": "2026-08-23T00:00:00Z",
+          "count": 4,
+          "uniques": 4
         }
       ]
     },
     "referrers14d": [
       {
         "referrer": "github.com",
-        "count": 7,
-        "uniques": 5
+        "count": 6,
+        "uniques": 4
       },
       {
         "referrer": "chatgpt.com",
@@ -208,8 +208,8 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 12,
-        "uniques": 12
+        "count": 11,
+        "uniques": 11
       },
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/README.zh-CN.md",
@@ -232,12 +232,6 @@
       {
         "path": "/Guesswhat-Studio/Calabash/discussions",
         "title": "/discussions",
-        "count": 1,
-        "uniques": 1
-      },
-      {
-        "path": "/Guesswhat-Studio/Calabash/pulls",
-        "title": "/pulls",
         "count": 1,
         "uniques": 1
       },
