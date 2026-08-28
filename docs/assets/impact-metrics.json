@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T05:03:30.046Z",
+  "generatedAt": "2026-08-28T05:56:23.480Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -11,13 +11,13 @@
     "githubPagesVisits30d": null,
     "edgeOneRequests30d": null,
     "edgeOneUniqueIps30d": null,
-    "releaseDownloads": 50,
-    "desktopDownloads": 41,
-    "latestReleaseDownloads": 9,
-    "githubRepoViews14d": 24,
-    "githubRepoVisitors14d": 13,
-    "githubClones14d": 101,
-    "githubUniqueCloners14d": 48
+    "releaseDownloads": 51,
+    "desktopDownloads": 42,
+    "latestReleaseDownloads": 10,
+    "githubRepoViews14d": 28,
+    "githubRepoVisitors14d": 17,
+    "githubClones14d": 114,
+    "githubUniqueCloners14d": 56
   },
   "web": {
     "githubPages": {
@@ -36,19 +36,9 @@
     "forks": 1,
     "openIssues": 12,
     "views14d": {
-      "count": 24,
-      "uniques": 13,
+      "count": 28,
+      "uniques": 17,
       "daily": [
-        {
-          "timestamp": "2026-08-12T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
-        {
-          "timestamp": "2026-08-13T00:00:00Z",
-          "count": 1,
-          "uniques": 1
-        },
         {
           "timestamp": "2026-08-14T00:00:00Z",
           "count": 1,
@@ -108,23 +98,23 @@
           "timestamp": "2026-08-25T00:00:00Z",
           "count": 7,
           "uniques": 3
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 5,
+          "uniques": 4
         }
       ]
     },
     "clones14d": {
-      "count": 101,
-      "uniques": 48,
+      "count": 114,
+      "uniques": 56,
       "daily": [
-        {
-          "timestamp": "2026-08-12T00:00:00Z",
-          "count": 5,
-          "uniques": 5
-        },
-        {
-          "timestamp": "2026-08-13T00:00:00Z",
-          "count": 5,
-          "uniques": 5
-        },
         {
           "timestamp": "2026-08-14T00:00:00Z",
           "count": 5,
@@ -184,6 +174,16 @@
           "timestamp": "2026-08-25T00:00:00Z",
           "count": 10,
           "uniques": 7
+        },
+        {
+          "timestamp": "2026-08-26T00:00:00Z",
+          "count": 4,
+          "uniques": 4
+        },
+        {
+          "timestamp": "2026-08-27T00:00:00Z",
+          "count": 19,
+          "uniques": 13
         }
       ]
     },
@@ -200,6 +200,11 @@
       },
       {
         "referrer": "tuilixy.net",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "referrer": "guesswhat-studio.github.io",
         "count": 1,
         "uniques": 1
       }
@@ -208,8 +213,8 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 14,
-        "uniques": 12
+        "count": 16,
+        "uniques": 14
       },
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/README.zh-CN.md",
@@ -224,8 +229,20 @@
         "uniques": 2
       },
       {
+        "path": "/Guesswhat-Studio/Calabash/discussions",
+        "title": "/discussions",
+        "count": 2,
+        "uniques": 2
+      },
+      {
         "path": "/Guesswhat-Studio/Calabash/pulls",
         "title": "/pulls",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "path": "/Guesswhat-Studio/Calabash/releases",
+        "title": "/releases",
         "count": 2,
         "uniques": 2
       },
@@ -234,28 +251,16 @@
         "title": "/deployments/github-pages",
         "count": 1,
         "uniques": 1
-      },
-      {
-        "path": "/Guesswhat-Studio/Calabash/discussions",
-        "title": "/discussions",
-        "count": 1,
-        "uniques": 1
-      },
-      {
-        "path": "/Guesswhat-Studio/Calabash/releases",
-        "title": "/releases",
-        "count": 1,
-        "uniques": 1
       }
     ]
   },
   "releases": {
-    "totalDownloads": 50,
-    "desktopDownloads": 41,
+    "totalDownloads": 51,
+    "desktopDownloads": 42,
     "webDownloads": 9,
     "latestRelease": {
       "tag": "v0.5.7",
-      "downloads": 9
+      "downloads": 10
     },
     "assets": [
       {
@@ -276,7 +281,7 @@
       {
         "release": "v0.5.7",
         "name": "Calabash_0.5.7_windows_x64.exe",
-        "downloadCount": 5
+        "downloadCount": 6
       },
       {
         "release": "v0.5.6",
