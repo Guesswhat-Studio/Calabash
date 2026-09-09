@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T03:30:08.149Z",
+  "generatedAt": "2026-09-09T03:30:42.607Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 51,
     "desktopDownloads": 42,
     "latestReleaseDownloads": 10,
-    "githubRepoViews14d": 44,
-    "githubRepoVisitors14d": 14,
-    "githubClones14d": 132,
-    "githubUniqueCloners14d": 67
+    "githubRepoViews14d": 51,
+    "githubRepoVisitors14d": 18,
+    "githubClones14d": 150,
+    "githubUniqueCloners14d": 77
   },
   "web": {
     "githubPages": {
@@ -36,19 +36,9 @@
     "forks": 1,
     "openIssues": 12,
     "views14d": {
-      "count": 44,
-      "uniques": 14,
+      "count": 51,
+      "uniques": 18,
       "daily": [
-        {
-          "timestamp": "2026-08-23T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
-        {
-          "timestamp": "2026-08-24T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
         {
           "timestamp": "2026-08-25T00:00:00Z",
           "count": 7,
@@ -108,23 +98,23 @@
           "timestamp": "2026-09-05T00:00:00Z",
           "count": 0,
           "uniques": 0
-        }
-      ]
-    },
-    "clones14d": {
-      "count": 132,
-      "uniques": 67,
-      "daily": [
+        },
         {
-          "timestamp": "2026-08-23T00:00:00Z",
+          "timestamp": "2026-09-06T00:00:00Z",
           "count": 4,
           "uniques": 4
         },
         {
-          "timestamp": "2026-08-24T00:00:00Z",
-          "count": 8,
-          "uniques": 7
-        },
+          "timestamp": "2026-09-07T00:00:00Z",
+          "count": 3,
+          "uniques": 3
+        }
+      ]
+    },
+    "clones14d": {
+      "count": 150,
+      "uniques": 77,
+      "daily": [
         {
           "timestamp": "2026-08-25T00:00:00Z",
           "count": 10,
@@ -184,6 +174,16 @@
           "timestamp": "2026-09-05T00:00:00Z",
           "count": 12,
           "uniques": 8
+        },
+        {
+          "timestamp": "2026-09-06T00:00:00Z",
+          "count": 10,
+          "uniques": 8
+        },
+        {
+          "timestamp": "2026-09-07T00:00:00Z",
+          "count": 20,
+          "uniques": 13
         }
       ]
     },
@@ -208,13 +208,13 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 21,
-        "uniques": 11
+        "count": 26,
+        "uniques": 15
       },
       {
         "path": "/Guesswhat-Studio/Calabash/discussions",
         "title": "/discussions",
-        "count": 8,
+        "count": 10,
         "uniques": 4
       },
       {
