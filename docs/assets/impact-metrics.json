@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T03:30:18.286Z",
+  "generatedAt": "2026-09-12T03:29:10.669Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 52,
     "desktopDownloads": 43,
     "latestReleaseDownloads": 11,
-    "githubRepoViews14d": 55,
-    "githubRepoVisitors14d": 19,
-    "githubClones14d": 166,
-    "githubUniqueCloners14d": 90
+    "githubRepoViews14d": 52,
+    "githubRepoVisitors14d": 17,
+    "githubClones14d": 154,
+    "githubUniqueCloners14d": 84
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 1,
     "openIssues": 12,
     "views14d": {
-      "count": 55,
-      "uniques": 19,
+      "count": 52,
+      "uniques": 17,
       "daily": [
-        {
-          "timestamp": "2026-08-27T00:00:00Z",
-          "count": 5,
-          "uniques": 4
-        },
         {
           "timestamp": "2026-08-28T00:00:00Z",
           "count": 0,
@@ -108,18 +103,18 @@
           "timestamp": "2026-09-09T00:00:00Z",
           "count": 8,
           "uniques": 3
+        },
+        {
+          "timestamp": "2026-09-10T00:00:00Z",
+          "count": 2,
+          "uniques": 2
         }
       ]
     },
     "clones14d": {
-      "count": 166,
-      "uniques": 90,
+      "count": 154,
+      "uniques": 84,
       "daily": [
-        {
-          "timestamp": "2026-08-27T00:00:00Z",
-          "count": 19,
-          "uniques": 13
-        },
         {
           "timestamp": "2026-08-28T00:00:00Z",
           "count": 12,
@@ -184,6 +179,11 @@
           "timestamp": "2026-09-09T00:00:00Z",
           "count": 19,
           "uniques": 17
+        },
+        {
+          "timestamp": "2026-09-10T00:00:00Z",
+          "count": 7,
+          "uniques": 5
         }
       ]
     },
@@ -192,24 +192,14 @@
         "referrer": "github.com",
         "count": 3,
         "uniques": 2
-      },
-      {
-        "referrer": "guesswhat-studio.github.io",
-        "count": 1,
-        "uniques": 1
-      },
-      {
-        "referrer": "tuilixy.net",
-        "count": 1,
-        "uniques": 1
       }
     ],
     "popularPaths14d": [
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 28,
-        "uniques": 17
+        "count": 26,
+        "uniques": 16
       },
       {
         "path": "/Guesswhat-Studio/Calabash/discussions",
@@ -236,12 +226,6 @@
         "uniques": 2
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/releases",
-        "title": "/releases",
-        "count": 2,
-        "uniques": 2
-      },
-      {
         "path": "/guesswhat-studio/calabash",
         "title": "Overview",
         "count": 2,
@@ -256,6 +240,12 @@
       {
         "path": "/Guesswhat-Studio/Calabash/graphs/contributors",
         "title": "/graphs/contributors",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Guesswhat-Studio/Calabash/releases",
+        "title": "/releases",
         "count": 1,
         "uniques": 1
       },
