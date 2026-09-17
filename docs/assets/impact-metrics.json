@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T03:31:18.261Z",
+  "generatedAt": "2026-09-17T03:31:17.150Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 52,
     "desktopDownloads": 43,
     "latestReleaseDownloads": 11,
-    "githubRepoViews14d": 55,
-    "githubRepoVisitors14d": 23,
-    "githubClones14d": 145,
-    "githubUniqueCloners14d": 73
+    "githubRepoViews14d": 44,
+    "githubRepoVisitors14d": 21,
+    "githubClones14d": 148,
+    "githubUniqueCloners14d": 74
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 1,
     "openIssues": 12,
     "views14d": {
-      "count": 55,
-      "uniques": 23,
+      "count": 44,
+      "uniques": 21,
       "daily": [
-        {
-          "timestamp": "2026-09-01T00:00:00Z",
-          "count": 17,
-          "uniques": 6
-        },
         {
           "timestamp": "2026-09-02T00:00:00Z",
           "count": 5,
@@ -108,18 +103,18 @@
           "timestamp": "2026-09-14T00:00:00Z",
           "count": 3,
           "uniques": 2
+        },
+        {
+          "timestamp": "2026-09-15T00:00:00Z",
+          "count": 6,
+          "uniques": 2
         }
       ]
     },
     "clones14d": {
-      "count": 145,
-      "uniques": 73,
+      "count": 148,
+      "uniques": 74,
       "daily": [
-        {
-          "timestamp": "2026-09-01T00:00:00Z",
-          "count": 8,
-          "uniques": 6
-        },
         {
           "timestamp": "2026-09-02T00:00:00Z",
           "count": 7,
@@ -184,13 +179,18 @@
           "timestamp": "2026-09-14T00:00:00Z",
           "count": 9,
           "uniques": 7
+        },
+        {
+          "timestamp": "2026-09-15T00:00:00Z",
+          "count": 11,
+          "uniques": 8
         }
       ]
     },
     "referrers14d": [
       {
         "referrer": "github.com",
-        "count": 3,
+        "count": 5,
         "uniques": 2
       }
     ],
@@ -198,32 +198,26 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 29,
-        "uniques": 19
+        "count": 26,
+        "uniques": 17
       },
       {
         "path": "/Guesswhat-Studio/Calabash/discussions",
         "title": "/discussions",
-        "count": 9,
-        "uniques": 5
+        "count": 8,
+        "uniques": 4
       },
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/README.zh-CN.md",
         "title": "/blob/main/README.zh-CN.md",
-        "count": 5,
-        "uniques": 2
+        "count": 3,
+        "uniques": 1
       },
       {
         "path": "/Guesswhat-Studio/Calabash/issues",
         "title": "/issues",
-        "count": 4,
-        "uniques": 4
-      },
-      {
-        "path": "/guesswhat-studio/calabash",
-        "title": "Overview",
         "count": 2,
-        "uniques": 1
+        "uniques": 2
       },
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/README.pt-BR.md",
@@ -232,26 +226,26 @@
         "uniques": 1
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/forks",
-        "title": "/forks",
+        "path": "/Guesswhat-Studio/Calabash/blob/main/app/package.json",
+        "title": "/blob/main/app/package.json",
         "count": 1,
         "uniques": 1
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/graphs/contributors",
-        "title": "/graphs/contributors",
+        "path": "/Guesswhat-Studio/Calabash/releases/tag/v0.5.7",
+        "title": "/releases/tag/v0.5.7",
         "count": 1,
         "uniques": 1
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/pulls",
-        "title": "/pulls",
+        "path": "/Guesswhat-Studio/Calabash/tree/main/app",
+        "title": "/tree/main/app",
         "count": 1,
         "uniques": 1
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/releases",
-        "title": "/releases",
+        "path": "/Guesswhat-Studio/Calabash/tree/main/app/src",
+        "title": "/tree/main/app/src",
         "count": 1,
         "uniques": 1
       }
