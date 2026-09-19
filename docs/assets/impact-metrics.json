@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T03:30:15.029Z",
+  "generatedAt": "2026-09-19T03:29:38.035Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 52,
     "desktopDownloads": 43,
     "latestReleaseDownloads": 11,
-    "githubRepoViews14d": 44,
+    "githubRepoViews14d": 46,
     "githubRepoVisitors14d": 23,
-    "githubClones14d": 149,
-    "githubUniqueCloners14d": 74
+    "githubClones14d": 161,
+    "githubUniqueCloners14d": 79
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 1,
     "openIssues": 12,
     "views14d": {
-      "count": 44,
+      "count": 46,
       "uniques": 23,
       "daily": [
-        {
-          "timestamp": "2026-09-03T00:00:00Z",
-          "count": 2,
-          "uniques": 1
-        },
         {
           "timestamp": "2026-09-04T00:00:00Z",
           "count": 1,
@@ -108,18 +103,18 @@
           "timestamp": "2026-09-16T00:00:00Z",
           "count": 5,
           "uniques": 4
+        },
+        {
+          "timestamp": "2026-09-17T00:00:00Z",
+          "count": 4,
+          "uniques": 2
         }
       ]
     },
     "clones14d": {
-      "count": 149,
-      "uniques": 74,
+      "count": 161,
+      "uniques": 79,
       "daily": [
-        {
-          "timestamp": "2026-09-03T00:00:00Z",
-          "count": 8,
-          "uniques": 8
-        },
         {
           "timestamp": "2026-09-04T00:00:00Z",
           "count": 8,
@@ -184,13 +179,18 @@
           "timestamp": "2026-09-16T00:00:00Z",
           "count": 8,
           "uniques": 6
+        },
+        {
+          "timestamp": "2026-09-17T00:00:00Z",
+          "count": 20,
+          "uniques": 14
         }
       ]
     },
     "referrers14d": [
       {
         "referrer": "github.com",
-        "count": 9,
+        "count": 12,
         "uniques": 4
       }
     ],
@@ -198,7 +198,7 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 26,
+        "count": 28,
         "uniques": 19
       },
       {
