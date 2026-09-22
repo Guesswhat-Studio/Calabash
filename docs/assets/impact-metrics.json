@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T03:33:56.740Z",
+  "generatedAt": "2026-09-22T03:31:40.536Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 52,
     "desktopDownloads": 43,
     "latestReleaseDownloads": 11,
-    "githubRepoViews14d": 48,
-    "githubRepoVisitors14d": 24,
-    "githubClones14d": 156,
-    "githubUniqueCloners14d": 75
+    "githubRepoViews14d": 47,
+    "githubRepoVisitors14d": 22,
+    "githubClones14d": 161,
+    "githubUniqueCloners14d": 78
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 2,
     "openIssues": 12,
     "views14d": {
-      "count": 48,
-      "uniques": 24,
+      "count": 47,
+      "uniques": 22,
       "daily": [
-        {
-          "timestamp": "2026-09-06T00:00:00Z",
-          "count": 4,
-          "uniques": 4
-        },
         {
           "timestamp": "2026-09-07T00:00:00Z",
           "count": 3,
@@ -108,18 +103,18 @@
           "timestamp": "2026-09-19T00:00:00Z",
           "count": 2,
           "uniques": 2
+        },
+        {
+          "timestamp": "2026-09-20T00:00:00Z",
+          "count": 3,
+          "uniques": 1
         }
       ]
     },
     "clones14d": {
-      "count": 156,
-      "uniques": 75,
+      "count": 161,
+      "uniques": 78,
       "daily": [
-        {
-          "timestamp": "2026-09-06T00:00:00Z",
-          "count": 10,
-          "uniques": 8
-        },
         {
           "timestamp": "2026-09-07T00:00:00Z",
           "count": 20,
@@ -184,6 +179,11 @@
           "timestamp": "2026-09-19T00:00:00Z",
           "count": 7,
           "uniques": 5
+        },
+        {
+          "timestamp": "2026-09-20T00:00:00Z",
+          "count": 15,
+          "uniques": 10
         }
       ]
     },
@@ -198,20 +198,20 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 28,
-        "uniques": 19
+        "count": 26,
+        "uniques": 17
       },
       {
         "path": "/Guesswhat-Studio/Calabash/discussions",
         "title": "/discussions",
-        "count": 8,
+        "count": 7,
         "uniques": 4
       },
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/README.zh-CN.md",
         "title": "/blob/main/README.zh-CN.md",
-        "count": 3,
-        "uniques": 1
+        "count": 4,
+        "uniques": 2
       },
       {
         "path": "/Guesswhat-Studio/Calabash/issues",
@@ -238,6 +238,12 @@
         "uniques": 1
       },
       {
+        "path": "/Guesswhat-Studio/Calabash/fork",
+        "title": "/fork",
+        "count": 1,
+        "uniques": 1
+      },
+      {
         "path": "/Guesswhat-Studio/Calabash/releases/tag/v0.5.7",
         "title": "/releases/tag/v0.5.7",
         "count": 1,
@@ -246,12 +252,6 @@
       {
         "path": "/Guesswhat-Studio/Calabash/tree/main/app",
         "title": "/tree/main/app",
-        "count": 1,
-        "uniques": 1
-      },
-      {
-        "path": "/Guesswhat-Studio/Calabash/tree/main/app/src",
-        "title": "/tree/main/app/src",
         "count": 1,
         "uniques": 1
       }
