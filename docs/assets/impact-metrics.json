@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T03:34:19.052Z",
+  "generatedAt": "2026-09-30T03:34:50.730Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -11,13 +11,13 @@
     "githubPagesVisits30d": null,
     "edgeOneRequests30d": null,
     "edgeOneUniqueIps30d": null,
-    "releaseDownloads": 52,
-    "desktopDownloads": 43,
-    "latestReleaseDownloads": 11,
-    "githubRepoViews14d": 46,
-    "githubRepoVisitors14d": 20,
-    "githubClones14d": 151,
-    "githubUniqueCloners14d": 73
+    "releaseDownloads": 53,
+    "desktopDownloads": 44,
+    "latestReleaseDownloads": 12,
+    "githubRepoViews14d": 44,
+    "githubRepoVisitors14d": 17,
+    "githubClones14d": 201,
+    "githubUniqueCloners14d": 99
   },
   "web": {
     "githubPages": {
@@ -36,34 +36,9 @@
     "forks": 2,
     "openIssues": 12,
     "views14d": {
-      "count": 46,
-      "uniques": 20,
+      "count": 44,
+      "uniques": 17,
       "daily": [
-        {
-          "timestamp": "2026-09-10T00:00:00Z",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "timestamp": "2026-09-11T00:00:00Z",
-          "count": 3,
-          "uniques": 3
-        },
-        {
-          "timestamp": "2026-09-12T00:00:00Z",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "timestamp": "2026-09-13T00:00:00Z",
-          "count": 2,
-          "uniques": 2
-        },
-        {
-          "timestamp": "2026-09-14T00:00:00Z",
-          "count": 3,
-          "uniques": 2
-        },
         {
           "timestamp": "2026-09-15T00:00:00Z",
           "count": 6,
@@ -108,38 +83,38 @@
           "timestamp": "2026-09-23T00:00:00Z",
           "count": 3,
           "uniques": 2
+        },
+        {
+          "timestamp": "2026-09-24T00:00:00Z",
+          "count": 3,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-09-25T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-09-26T00:00:00Z",
+          "count": 2,
+          "uniques": 2
+        },
+        {
+          "timestamp": "2026-09-27T00:00:00Z",
+          "count": 0,
+          "uniques": 0
+        },
+        {
+          "timestamp": "2026-09-28T00:00:00Z",
+          "count": 3,
+          "uniques": 3
         }
       ]
     },
     "clones14d": {
-      "count": 151,
-      "uniques": 73,
+      "count": 201,
+      "uniques": 99,
       "daily": [
-        {
-          "timestamp": "2026-09-10T00:00:00Z",
-          "count": 7,
-          "uniques": 5
-        },
-        {
-          "timestamp": "2026-09-11T00:00:00Z",
-          "count": 9,
-          "uniques": 7
-        },
-        {
-          "timestamp": "2026-09-12T00:00:00Z",
-          "count": 10,
-          "uniques": 8
-        },
-        {
-          "timestamp": "2026-09-13T00:00:00Z",
-          "count": 7,
-          "uniques": 5
-        },
-        {
-          "timestamp": "2026-09-14T00:00:00Z",
-          "count": 9,
-          "uniques": 7
-        },
         {
           "timestamp": "2026-09-15T00:00:00Z",
           "count": 11,
@@ -184,14 +159,39 @@
           "timestamp": "2026-09-23T00:00:00Z",
           "count": 11,
           "uniques": 9
+        },
+        {
+          "timestamp": "2026-09-24T00:00:00Z",
+          "count": 20,
+          "uniques": 14
+        },
+        {
+          "timestamp": "2026-09-25T00:00:00Z",
+          "count": 8,
+          "uniques": 6
+        },
+        {
+          "timestamp": "2026-09-26T00:00:00Z",
+          "count": 18,
+          "uniques": 12
+        },
+        {
+          "timestamp": "2026-09-27T00:00:00Z",
+          "count": 25,
+          "uniques": 17
+        },
+        {
+          "timestamp": "2026-09-28T00:00:00Z",
+          "count": 21,
+          "uniques": 13
         }
       ]
     },
     "referrers14d": [
       {
         "referrer": "github.com",
-        "count": 14,
-        "uniques": 5
+        "count": 15,
+        "uniques": 6
       },
       {
         "referrer": "chatgpt.com",
@@ -203,14 +203,20 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 24,
-        "uniques": 14
+        "count": 23,
+        "uniques": 12
+      },
+      {
+        "path": "/Guesswhat-Studio/Calabash/blob/main/docs/CODE_SIGNING.md",
+        "title": "/blob/main/docs/CODE_SIGNING.md",
+        "count": 4,
+        "uniques": 4
       },
       {
         "path": "/Guesswhat-Studio/Calabash/discussions",
         "title": "/discussions",
-        "count": 6,
-        "uniques": 4
+        "count": 3,
+        "uniques": 2
       },
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/app/package.json",
@@ -225,20 +231,8 @@
         "uniques": 1
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/blob/main/README.pt-BR.md",
-        "title": "/blob/main/README.pt-BR.md",
-        "count": 1,
-        "uniques": 1
-      },
-      {
         "path": "/Guesswhat-Studio/Calabash/blob/main/README.zh-CN.md",
         "title": "/blob/main/README.zh-CN.md",
-        "count": 1,
-        "uniques": 1
-      },
-      {
-        "path": "/Guesswhat-Studio/Calabash/blob/main/docs/CODE_SIGNING.md",
-        "title": "/blob/main/docs/CODE_SIGNING.md",
         "count": 1,
         "uniques": 1
       },
@@ -259,16 +253,22 @@
         "title": "/fork",
         "count": 1,
         "uniques": 1
+      },
+      {
+        "path": "/Guesswhat-Studio/Calabash/issues",
+        "title": "/issues",
+        "count": 1,
+        "uniques": 1
       }
     ]
   },
   "releases": {
-    "totalDownloads": 52,
-    "desktopDownloads": 43,
+    "totalDownloads": 53,
+    "desktopDownloads": 44,
     "webDownloads": 9,
     "latestRelease": {
       "tag": "v0.5.7",
-      "downloads": 11
+      "downloads": 12
     },
     "assets": [
       {
@@ -289,7 +289,7 @@
       {
         "release": "v0.5.7",
         "name": "Calabash_0.5.7_windows_x64.exe",
-        "downloadCount": 7
+        "downloadCount": 8
       },
       {
         "release": "v0.5.6",
