@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T03:39:19.682Z",
+  "generatedAt": "2026-10-02T03:33:32.106Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 53,
     "desktopDownloads": 44,
     "latestReleaseDownloads": 12,
-    "githubRepoViews14d": 39,
-    "githubRepoVisitors14d": 17,
-    "githubClones14d": 201,
-    "githubUniqueCloners14d": 99
+    "githubRepoViews14d": 35,
+    "githubRepoVisitors14d": 15,
+    "githubClones14d": 210,
+    "githubUniqueCloners14d": 104
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 2,
     "openIssues": 12,
     "views14d": {
-      "count": 39,
-      "uniques": 17,
+      "count": 35,
+      "uniques": 15,
       "daily": [
-        {
-          "timestamp": "2026-09-16T00:00:00Z",
-          "count": 5,
-          "uniques": 4
-        },
         {
           "timestamp": "2026-09-17T00:00:00Z",
           "count": 4,
@@ -108,18 +103,18 @@
           "timestamp": "2026-09-29T00:00:00Z",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "timestamp": "2026-09-30T00:00:00Z",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
     "clones14d": {
-      "count": 201,
-      "uniques": 99,
+      "count": 210,
+      "uniques": 104,
       "daily": [
-        {
-          "timestamp": "2026-09-16T00:00:00Z",
-          "count": 8,
-          "uniques": 6
-        },
         {
           "timestamp": "2026-09-17T00:00:00Z",
           "count": 20,
@@ -184,14 +179,19 @@
           "timestamp": "2026-09-29T00:00:00Z",
           "count": 11,
           "uniques": 8
+        },
+        {
+          "timestamp": "2026-09-30T00:00:00Z",
+          "count": 17,
+          "uniques": 11
         }
       ]
     },
     "referrers14d": [
       {
         "referrer": "github.com",
-        "count": 11,
-        "uniques": 6
+        "count": 7,
+        "uniques": 4
       },
       {
         "referrer": "chatgpt.com",
@@ -203,8 +203,8 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 21,
-        "uniques": 11
+        "count": 18,
+        "uniques": 10
       },
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/docs/CODE_SIGNING.md",
@@ -231,12 +231,6 @@
         "uniques": 1
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/blob/main/app/package.json",
-        "title": "/blob/main/app/package.json",
-        "count": 1,
-        "uniques": 1
-      },
-      {
         "path": "/Guesswhat-Studio/Calabash/blob/main/docs/assets/calabash-demo.png",
         "title": "/blob/main/docs/assets/calabash-demo.png",
         "count": 1,
@@ -257,6 +251,12 @@
       {
         "path": "/Guesswhat-Studio/Calabash/issues",
         "title": "/issues",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Guesswhat-Studio/Calabash/pulls",
+        "title": "/pulls",
         "count": 1,
         "uniques": 1
       }
