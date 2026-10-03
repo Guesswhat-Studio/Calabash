@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T03:33:32.106Z",
+  "generatedAt": "2026-10-03T03:41:51.665Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 53,
     "desktopDownloads": 44,
     "latestReleaseDownloads": 12,
-    "githubRepoViews14d": 35,
+    "githubRepoViews14d": 31,
     "githubRepoVisitors14d": 15,
-    "githubClones14d": 210,
-    "githubUniqueCloners14d": 104
+    "githubClones14d": 198,
+    "githubUniqueCloners14d": 97
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 2,
     "openIssues": 12,
     "views14d": {
-      "count": 35,
+      "count": 31,
       "uniques": 15,
       "daily": [
-        {
-          "timestamp": "2026-09-17T00:00:00Z",
-          "count": 4,
-          "uniques": 2
-        },
         {
           "timestamp": "2026-09-18T00:00:00Z",
           "count": 1,
@@ -108,18 +103,18 @@
           "timestamp": "2026-09-30T00:00:00Z",
           "count": 1,
           "uniques": 1
+        },
+        {
+          "timestamp": "2026-10-01T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ]
     },
     "clones14d": {
-      "count": 210,
-      "uniques": 104,
+      "count": 198,
+      "uniques": 97,
       "daily": [
-        {
-          "timestamp": "2026-09-17T00:00:00Z",
-          "count": 20,
-          "uniques": 14
-        },
         {
           "timestamp": "2026-09-18T00:00:00Z",
           "count": 8,
@@ -184,13 +179,18 @@
           "timestamp": "2026-09-30T00:00:00Z",
           "count": 17,
           "uniques": 11
+        },
+        {
+          "timestamp": "2026-10-01T00:00:00Z",
+          "count": 8,
+          "uniques": 6
         }
       ]
     },
     "referrers14d": [
       {
         "referrer": "github.com",
-        "count": 7,
+        "count": 4,
         "uniques": 4
       },
       {
@@ -203,7 +203,7 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 18,
+        "count": 15,
         "uniques": 10
       },
       {
@@ -215,7 +215,7 @@
       {
         "path": "/Guesswhat-Studio/Calabash/discussions",
         "title": "/discussions",
-        "count": 3,
+        "count": 2,
         "uniques": 1
       },
       {
