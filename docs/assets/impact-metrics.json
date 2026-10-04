@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T03:41:51.665Z",
+  "generatedAt": "2026-10-04T04:34:52.640Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 53,
     "desktopDownloads": 44,
     "latestReleaseDownloads": 12,
-    "githubRepoViews14d": 31,
+    "githubRepoViews14d": 30,
     "githubRepoVisitors14d": 15,
-    "githubClones14d": 198,
-    "githubUniqueCloners14d": 97
+    "githubClones14d": 196,
+    "githubUniqueCloners14d": 94
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 2,
     "openIssues": 12,
     "views14d": {
-      "count": 31,
+      "count": 30,
       "uniques": 15,
       "daily": [
-        {
-          "timestamp": "2026-09-18T00:00:00Z",
-          "count": 1,
-          "uniques": 1
-        },
         {
           "timestamp": "2026-09-19T00:00:00Z",
           "count": 2,
@@ -108,18 +103,18 @@
           "timestamp": "2026-10-01T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-10-02T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ]
     },
     "clones14d": {
-      "count": 198,
-      "uniques": 97,
+      "count": 196,
+      "uniques": 94,
       "daily": [
-        {
-          "timestamp": "2026-09-18T00:00:00Z",
-          "count": 8,
-          "uniques": 6
-        },
         {
           "timestamp": "2026-09-19T00:00:00Z",
           "count": 7,
@@ -184,6 +179,11 @@
           "timestamp": "2026-10-01T00:00:00Z",
           "count": 8,
           "uniques": 6
+        },
+        {
+          "timestamp": "2026-10-02T00:00:00Z",
+          "count": 6,
+          "uniques": 4
         }
       ]
     },
@@ -213,12 +213,6 @@
         "uniques": 4
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/discussions",
-        "title": "/discussions",
-        "count": 2,
-        "uniques": 1
-      },
-      {
         "path": "/Guesswhat-Studio/Calabash/blob/main/PRIVACY.md",
         "title": "/blob/main/PRIVACY.md",
         "count": 1,
@@ -239,6 +233,12 @@
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/docs/assets/impact-metrics.json",
         "title": "/blob/main/docs/assets/impact-metrics.json",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/Guesswhat-Studio/Calabash/discussions",
+        "title": "/discussions",
         "count": 1,
         "uniques": 1
       },
