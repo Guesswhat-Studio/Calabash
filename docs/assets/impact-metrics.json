@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T03:34:12.993Z",
+  "generatedAt": "2026-10-07T03:37:23.032Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -11,13 +11,13 @@
     "githubPagesVisits30d": null,
     "edgeOneRequests30d": null,
     "edgeOneUniqueIps30d": null,
-    "releaseDownloads": 53,
-    "desktopDownloads": 44,
-    "latestReleaseDownloads": 12,
-    "githubRepoViews14d": 26,
-    "githubRepoVisitors14d": 13,
-    "githubClones14d": 191,
-    "githubUniqueCloners14d": 91
+    "releaseDownloads": 54,
+    "desktopDownloads": 45,
+    "latestReleaseDownloads": 13,
+    "githubRepoViews14d": 27,
+    "githubRepoVisitors14d": 14,
+    "githubClones14d": 195,
+    "githubUniqueCloners14d": 92
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 2,
     "openIssues": 12,
     "views14d": {
-      "count": 26,
-      "uniques": 13,
+      "count": 27,
+      "uniques": 14,
       "daily": [
-        {
-          "timestamp": "2026-09-21T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
         {
           "timestamp": "2026-09-22T00:00:00Z",
           "count": 10,
@@ -108,18 +103,18 @@
           "timestamp": "2026-10-04T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-10-05T00:00:00Z",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
     "clones14d": {
-      "count": 191,
-      "uniques": 91,
+      "count": 195,
+      "uniques": 92,
       "daily": [
-        {
-          "timestamp": "2026-09-21T00:00:00Z",
-          "count": 7,
-          "uniques": 5
-        },
         {
           "timestamp": "2026-09-22T00:00:00Z",
           "count": 22,
@@ -184,6 +179,11 @@
           "timestamp": "2026-10-04T00:00:00Z",
           "count": 10,
           "uniques": 7
+        },
+        {
+          "timestamp": "2026-10-05T00:00:00Z",
+          "count": 11,
+          "uniques": 8
         }
       ]
     },
@@ -203,8 +203,8 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 13,
-        "uniques": 9
+        "count": 14,
+        "uniques": 10
       },
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/docs/CODE_SIGNING.md",
@@ -263,12 +263,12 @@
     ]
   },
   "releases": {
-    "totalDownloads": 53,
-    "desktopDownloads": 44,
+    "totalDownloads": 54,
+    "desktopDownloads": 45,
     "webDownloads": 9,
     "latestRelease": {
       "tag": "v0.5.7",
-      "downloads": 12
+      "downloads": 13
     },
     "assets": [
       {
@@ -289,7 +289,7 @@
       {
         "release": "v0.5.7",
         "name": "Calabash_0.5.7_windows_x64.exe",
-        "downloadCount": 8
+        "downloadCount": 9
       },
       {
         "release": "v0.5.6",
