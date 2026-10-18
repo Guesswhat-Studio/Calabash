@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T03:29:09.140Z",
+  "generatedAt": "2026-10-18T03:30:35.442Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 55,
     "desktopDownloads": 46,
     "latestReleaseDownloads": 14,
-    "githubRepoViews14d": 20,
-    "githubRepoVisitors14d": 11,
-    "githubClones14d": 187,
-    "githubUniqueCloners14d": 83
+    "githubRepoViews14d": 21,
+    "githubRepoVisitors14d": 12,
+    "githubClones14d": 188,
+    "githubUniqueCloners14d": 84
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 2,
     "openIssues": 12,
     "views14d": {
-      "count": 20,
-      "uniques": 11,
+      "count": 21,
+      "uniques": 12,
       "daily": [
-        {
-          "timestamp": "2026-10-02T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
         {
           "timestamp": "2026-10-03T00:00:00Z",
           "count": 1,
@@ -108,18 +103,18 @@
           "timestamp": "2026-10-15T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-10-16T00:00:00Z",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
     "clones14d": {
-      "count": 187,
-      "uniques": 83,
+      "count": 188,
+      "uniques": 84,
       "daily": [
-        {
-          "timestamp": "2026-10-02T00:00:00Z",
-          "count": 6,
-          "uniques": 4
-        },
         {
           "timestamp": "2026-10-03T00:00:00Z",
           "count": 7,
@@ -184,6 +179,11 @@
           "timestamp": "2026-10-15T00:00:00Z",
           "count": 9,
           "uniques": 7
+        },
+        {
+          "timestamp": "2026-10-16T00:00:00Z",
+          "count": 7,
+          "uniques": 5
         }
       ]
     },
@@ -198,8 +198,8 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 12,
-        "uniques": 8
+        "count": 13,
+        "uniques": 9
       },
       {
         "path": "/Guesswhat-Studio/Calabash/pulls",
