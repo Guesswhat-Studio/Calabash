@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T03:37:04.757Z",
+  "generatedAt": "2026-10-27T03:33:57.733Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -15,9 +15,9 @@
     "desktopDownloads": 46,
     "latestReleaseDownloads": 14,
     "githubRepoViews14d": 13,
-    "githubRepoVisitors14d": 9,
-    "githubClones14d": 203,
-    "githubUniqueCloners14d": 96
+    "githubRepoVisitors14d": 10,
+    "githubClones14d": 183,
+    "githubUniqueCloners14d": 87
   },
   "web": {
     "githubPages": {
@@ -37,13 +37,8 @@
     "openIssues": 12,
     "views14d": {
       "count": 13,
-      "uniques": 9,
+      "uniques": 10,
       "daily": [
-        {
-          "timestamp": "2026-10-11T00:00:00Z",
-          "count": 1,
-          "uniques": 1
-        },
         {
           "timestamp": "2026-10-12T00:00:00Z",
           "count": 2,
@@ -108,18 +103,18 @@
           "timestamp": "2026-10-24T00:00:00Z",
           "count": 3,
           "uniques": 1
+        },
+        {
+          "timestamp": "2026-10-25T00:00:00Z",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
     "clones14d": {
-      "count": 203,
-      "uniques": 96,
+      "count": 183,
+      "uniques": 87,
       "daily": [
-        {
-          "timestamp": "2026-10-11T00:00:00Z",
-          "count": 27,
-          "uniques": 17
-        },
         {
           "timestamp": "2026-10-12T00:00:00Z",
           "count": 17,
@@ -184,6 +179,11 @@
           "timestamp": "2026-10-24T00:00:00Z",
           "count": 18,
           "uniques": 12
+        },
+        {
+          "timestamp": "2026-10-25T00:00:00Z",
+          "count": 7,
+          "uniques": 5
         }
       ]
     },
@@ -198,14 +198,20 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 10,
-        "uniques": 7
+        "count": 9,
+        "uniques": 6
       },
       {
         "path": "/Guesswhat-Studio/Calabash/discussions",
         "title": "/discussions",
         "count": 2,
         "uniques": 2
+      },
+      {
+        "path": "/Guesswhat-Studio/Calabash/blob/main/docs/CODE_SIGNING.md",
+        "title": "/blob/main/docs/CODE_SIGNING.md",
+        "count": 1,
+        "uniques": 1
       },
       {
         "path": "/Guesswhat-Studio/Calabash/pulls",
