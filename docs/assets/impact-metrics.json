@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T03:21:48.609Z",
+  "generatedAt": "2026-11-06T03:21:17.574Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 55,
     "desktopDownloads": 46,
     "latestReleaseDownloads": 14,
-    "githubRepoViews14d": 29,
-    "githubRepoVisitors14d": 19,
+    "githubRepoViews14d": 30,
+    "githubRepoVisitors14d": 20,
     "githubClones14d": 199,
-    "githubUniqueCloners14d": 87
+    "githubUniqueCloners14d": 86
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 2,
     "openIssues": 12,
     "views14d": {
-      "count": 29,
-      "uniques": 19,
+      "count": 30,
+      "uniques": 20,
       "daily": [
-        {
-          "timestamp": "2026-10-21T00:00:00Z",
-          "count": 0,
-          "uniques": 0
-        },
         {
           "timestamp": "2026-10-22T00:00:00Z",
           "count": 0,
@@ -108,18 +103,18 @@
           "timestamp": "2026-11-03T00:00:00Z",
           "count": 8,
           "uniques": 3
+        },
+        {
+          "timestamp": "2026-11-04T00:00:00Z",
+          "count": 1,
+          "uniques": 1
         }
       ]
     },
     "clones14d": {
       "count": 199,
-      "uniques": 87,
+      "uniques": 86,
       "daily": [
-        {
-          "timestamp": "2026-10-21T00:00:00Z",
-          "count": 19,
-          "uniques": 14
-        },
         {
           "timestamp": "2026-10-22T00:00:00Z",
           "count": 7,
@@ -184,14 +179,19 @@
           "timestamp": "2026-11-03T00:00:00Z",
           "count": 14,
           "uniques": 8
+        },
+        {
+          "timestamp": "2026-11-04T00:00:00Z",
+          "count": 19,
+          "uniques": 12
         }
       ]
     },
     "referrers14d": [
       {
         "referrer": "github.com",
-        "count": 7,
-        "uniques": 2
+        "count": 8,
+        "uniques": 3
       },
       {
         "referrer": "aocr.org",
@@ -203,8 +203,8 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 19,
-        "uniques": 11
+        "count": 20,
+        "uniques": 12
       },
       {
         "path": "/Guesswhat-Studio/Calabash/blob/main/README.pt-BR.md",
