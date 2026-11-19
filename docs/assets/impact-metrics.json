@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T03:22:27.984Z",
+  "generatedAt": "2026-11-19T03:22:22.376Z",
   "appVersion": "0.5.7",
   "source": {
     "repository": "Guesswhat-Studio/Calabash",
@@ -14,10 +14,10 @@
     "releaseDownloads": 55,
     "desktopDownloads": 46,
     "latestReleaseDownloads": 14,
-    "githubRepoViews14d": 43,
-    "githubRepoVisitors14d": 26,
-    "githubClones14d": 198,
-    "githubUniqueCloners14d": 91
+    "githubRepoViews14d": 35,
+    "githubRepoVisitors14d": 25,
+    "githubClones14d": 189,
+    "githubUniqueCloners14d": 89
   },
   "web": {
     "githubPages": {
@@ -36,14 +36,9 @@
     "forks": 2,
     "openIssues": 12,
     "views14d": {
-      "count": 43,
-      "uniques": 26,
+      "count": 35,
+      "uniques": 25,
       "daily": [
-        {
-          "timestamp": "2026-11-03T00:00:00Z",
-          "count": 8,
-          "uniques": 3
-        },
         {
           "timestamp": "2026-11-04T00:00:00Z",
           "count": 1,
@@ -108,18 +103,18 @@
           "timestamp": "2026-11-16T00:00:00Z",
           "count": 0,
           "uniques": 0
+        },
+        {
+          "timestamp": "2026-11-17T00:00:00Z",
+          "count": 0,
+          "uniques": 0
         }
       ]
     },
     "clones14d": {
-      "count": 198,
-      "uniques": 91,
+      "count": 189,
+      "uniques": 89,
       "daily": [
-        {
-          "timestamp": "2026-11-03T00:00:00Z",
-          "count": 14,
-          "uniques": 8
-        },
         {
           "timestamp": "2026-11-04T00:00:00Z",
           "count": 19,
@@ -184,13 +179,18 @@
           "timestamp": "2026-11-16T00:00:00Z",
           "count": 18,
           "uniques": 12
+        },
+        {
+          "timestamp": "2026-11-17T00:00:00Z",
+          "count": 5,
+          "uniques": 5
         }
       ]
     },
     "referrers14d": [
       {
         "referrer": "github.com",
-        "count": 10,
+        "count": 6,
         "uniques": 3
       },
       {
@@ -213,14 +213,8 @@
       {
         "path": "/Guesswhat-Studio/Calabash",
         "title": "Overview",
-        "count": 25,
+        "count": 20,
         "uniques": 15
-      },
-      {
-        "path": "/Guesswhat-Studio/Calabash/commit/8bb7d5e1deaae962f02cc22ffec18393507f4534",
-        "title": "/commit/8bb7d5e1deaae962f02cc22ffec18393507f4534",
-        "count": 3,
-        "uniques": 3
       },
       {
         "path": "/Guesswhat-Studio/Calabash/issues",
@@ -235,8 +229,8 @@
         "uniques": 2
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/discussions",
-        "title": "/discussions",
+        "path": "/Guesswhat-Studio/Calabash/commit/8bb7d5e1deaae962f02cc22ffec18393507f4534",
+        "title": "/commit/8bb7d5e1deaae962f02cc22ffec18393507f4534",
         "count": 2,
         "uniques": 2
       },
@@ -253,8 +247,8 @@
         "uniques": 1
       },
       {
-        "path": "/Guesswhat-Studio/Calabash/issues/new/choose",
-        "title": "/issues/new/choose",
+        "path": "/Guesswhat-Studio/Calabash/discussions",
+        "title": "/discussions",
         "count": 1,
         "uniques": 1
       },
@@ -267,6 +261,12 @@
       {
         "path": "/Guesswhat-Studio/Calabash/tree/main/scripts",
         "title": "/tree/main/scripts",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "path": "/tos-cn-i-ik7evvg4ik/rc/supertask/e6ab18e1db2547a3953c18150a38b14f~tplv-a9rns2rl98-image.image",
+        "title": "pertask/e6ab18e1db2547a3953c18150a38b14f~tplv-a9rns2rl98-image.image",
         "count": 1,
         "uniques": 1
       }
